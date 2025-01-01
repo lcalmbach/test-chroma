@@ -2,4 +2,4 @@ streamlit
 langchain
 langchain_community
 langchain-openai
-chromadb
+install faiss-cpu
